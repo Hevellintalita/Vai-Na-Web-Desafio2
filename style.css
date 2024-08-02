@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: rgb(222, 90, 178);
+}
+
+.imagem-redonda {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.meu-rodapé {
+  background-color: gray;
+  border: solid black;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
